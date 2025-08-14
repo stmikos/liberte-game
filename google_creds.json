@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gentle-exchange-466602-k0",
+  "private_key_id": "830b10d2a27022bcecaf12aaeeac3bd7616daf2c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCluDkSIrj8z8rk\nNswBRrjjzanp7NKdGYCXzOKiEiUYpbN8WvkNLU6cQukq0kHn78rIZL/szzUZu4EZ\ncsdPdC0lL2MDcFZgj+DXz/Qv50dCglGEw5IipKSYyjDNGHdBANzR88ZWZ7HHaHD+\ni2OArPuGgTcnvRagn8nLDatQCfvvY99qsc79rSIdovaBVt5kwcXXy0fbQm7F1VQS\njaAQlmNBUwvPqkPLzjsXUK2n5KQgkVUS8mQddMuCcFPCKmqMQhjcFElCghvHfey/\nH0+5YBizN6mWXOmMJfXIbKH4Tp+J4nzDOmnnas4fUa9NARW2ntsP0Z3m4Fvd1Jbs\nOcI8VJXbAgMBAAECggEAAgjHZpIXjD7uwitsCK36Eg3RwqXeFgCcpABnXc70Np++\nGs4xFXjTaLanjxeCqJq4dgpKktkeUUEMfif7C14lObohsIaeANRzUaLjX/0qUkYw\nQv11m0hDHv8IZ1QgDqO4kjk4W5ItTAHbtTw3zfoRol6Os0Wuc+1SOFRkIHjm51Lg\n9i/IkZvClwAp0Svhu/es9M3AHTZGOwYY8XYHWCVxUnI1FnrQEB9Fn0tMtROQDIiH\ndIr/ueIgmWq+HfA1mGcH8jIuWhjtM/l1NfsgL63DQEycb6NZlFSSGiQsJNMdH+dv\nTKv3nfqKliGnTdk+RyQur9Y3UeLJhPU4gwEJRz8ucQKBgQDewtJf/gXdR7X4DTG5\nlXkpDAGroqQeOICWhjTzR3RpZyR8Zz3ygVMNPvrlnPjugPkujEpp5/tU/8/SK63u\n+KQYK8PKSK93BOxBQampMenuHIqlmbs8qiScPgSlIjTreWf64N+Ig1JXfHYO5hqg\ncGaehUridKgUsMD5tCgGYM+fywKBgQC+cn6dz1cEUKydSwhgNC9Wy+GAjICUjdzx\n4AtpbbcRRq6hAk8wDwdF2VCHzb0NQn44UqS1rA3p2OmGTavipB+4s3TBth1Tzpwc\nohsRCFpYZB/QhEHTK3bKcBEGiuu89/Uc0ZBoK5AW9YQjqbWSlhphIRIO8aD/0ayG\nE8cuzOUAMQKBgQCPf91Z7SAF/i4hDw7bSIj2gj+JO4qR1UAwt1/g4EUDqWf9o9xq\nHhlMTSf/RnGt4vOioslFFCX6CZjtASpY6V98GqVT6CLwfwFawFv1HKxfsY83QqM1\nXz2aUPFZF4ITtu/e04HsRPyEUy8SRfUdKYtRzvgAjbnBKmQF96JZCYB2pQKBgQCa\nBKxjYdBEvB2tI4ZFj06Nilr3hClkeoopzoBMJh+8SAZoTh7Ohgjis0oOWhO/Snwb\nfrKX/epOqU7Kf7w3kXXaAL+2/VogceIMwgjTsIaoH2kfUCaP6gGq3BDY0ratX3aK\ndOytYjWoa6wOz2v5fY0d6gnZrg3/dYlp8UrPjYLRsQKBgQC351l/5jlcIbb+Gvst\nXtqENyXtXnV7d7ADY4+yxwCcE54QZMYCNbF5cStWxH0rD61y8y8fnV/r/mulyj1W\n1bhF90RgaweyUUYb5ExwdKufJe5G+hRez+fV4Qr4WTgb6R+JTGGx4E8SdeH6Alpj\nSsiW0kyyFtadhgUqlRiOc0nPPw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "liberte@gentle-exchange-466602-k0.iam.gserviceaccount.com",
+  "client_id": "105160061750468394013",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/liberte%40gentle-exchange-466602-k0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

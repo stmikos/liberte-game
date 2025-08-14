@@ -1,0 +1,7 @@
+python-telegram-bot==21.6
+Flask==3.0.2
+google-api-python-client==2.141.0
+google-auth==2.33.0
+google-auth-oauthlib==1.2.1
+APScheduler==3.10.4
+python-dotenv==1.0.1

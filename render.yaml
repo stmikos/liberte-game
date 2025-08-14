@@ -1,0 +1,15 @@
+services:
+  - type: web
+    name: liberte-game-bot
+    env: python
+    plan: free
+    rootDir: .              # или укажи подпапку: liberte_game
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: GOOGLE_SHEET_ID
+        sync: false
+      - key: GOOGLE_CREDS_PATH
+        value: /opt/render/project/src/google_creds.json
